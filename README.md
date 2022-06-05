@@ -5,7 +5,7 @@
 * Demo :  [Link](http://finalversion.s3-website-us-west-2.amazonaws.com/)
 
 ## Built With
-- [Html](https://html.com/) - Html
-- [Css](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar) - CSS
-- [JavaScript](https://www.javascript.com/) - Javascript 
-- [ajax](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX) -AJAX 
+- [HTML](https://html.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=ar)
+- [JavaScript](https://www.javascript.com/)
+- [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
